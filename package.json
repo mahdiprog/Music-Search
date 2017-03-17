@@ -1,0 +1,24 @@
+{
+  "name": "MusicSearch",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "bower": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-bower": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-strip-comments": "*",
+    "gulp-uglify": "*",
+    "jasmine-core": "*",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "*",
+    "karma-coverage": "*",
+    "karma-firefox-launcher": "*",
+    "karma-html-detailed-reporter": "^1.1.20",
+    "karma-jasmine": "*",
+    "karma-phantomjs-launcher": "*",
+    "phantomjs-adapter": "*"
+  }
+}

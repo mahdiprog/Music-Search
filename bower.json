@@ -1,0 +1,23 @@
+{
+    "name": "MusicSearch",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "angular": "*",
+        "angular-route": "*",
+        "angular-mocks": "*",
+        "angular-animate": "*",
+        "bootstrap": "*",
+        "ng-rating": "*",
+        "angular-toastr": "*"
+    },
+    "resolutions": {
+        "angular": "1.6.4-build.5311+sha.1daa4f2"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "e2e-tests"
+    ]
+}
